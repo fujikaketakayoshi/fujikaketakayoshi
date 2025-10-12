@@ -14,7 +14,7 @@
 ## 🔭 活動・興味
 
 - paizaでのアルゴリズム強化（Sランク取得済）
-- LeetCodeでPythonの練習しながらアルゴリズム勉強中
+- LeetCodeとAtCoder典型90問でPython使ってアルゴリズム勉強中
 - 自作Webツールの開発・公開
 - FindyやForkwellを通じた転職活動もゆるやかに継続中
 
