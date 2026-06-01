@@ -1,12 +1,12 @@
 # 💻 FUJIKAKE Takayoshi
 
 こんにちは、**PHP/Laravel**を中心としたWebアプリケーション開発者です。  
-現在はフリーランスで活動しており、**プログラミングスクール講師（4年間）**を経験しております。  
+現在はフリーランスで活動しており、**プログラミングスクール講師（5年間）**を経験しております。  
 現在、正社員での求職活動中ですが、同時にフリーランスの案件も探しております。
 
 ## 🛠 スキルスタック
 
-- 言語: PHP / JavaScript / HTML / CSS / SQL
+- 言語: PHP / JavaScript / Python / HTML / CSS / SQL
 - フレームワーク: Laravel / jQuery
 - ツール: Git / Docker / MySQL
 - その他: Heroku, GitHub Actions
@@ -14,7 +14,8 @@
 ## 🔭 活動・興味
 
 - paizaでのアルゴリズム強化（Sランク取得済）
-- LeetCodeとAtCoder典型90問でPython使ってアルゴリズム勉強中
+- LeetCodeとAtCoderでPython使ってアルゴリズム勉強中
+- AtCoderのABCで年内にレーティング800を目指しています
 - 自作Webツールの開発・公開
 - FindyやForkwellを通じた転職活動もゆるやかに継続中
 
